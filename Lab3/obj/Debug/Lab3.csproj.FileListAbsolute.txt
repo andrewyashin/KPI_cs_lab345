@@ -1,0 +1,9 @@
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/obj/Debug/Lab3.csprojResolveAssemblyReference.cache
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/bin/Debug/Lab3.exe
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/bin/Debug/Lab3.exe.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/obj/Debug/Lab3.exe
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/obj/Debug/Lab3.exe.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/bin/Debug/MyCollections.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/bin/Debug/MyCollections.dll.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/bin/Debug/ListTest.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/Lab3/bin/Debug/ListTest.dll.mdb

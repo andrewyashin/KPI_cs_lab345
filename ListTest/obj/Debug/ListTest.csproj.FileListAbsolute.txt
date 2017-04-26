@@ -1,0 +1,9 @@
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/bin/Debug/ListTest.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/bin/Debug/ListTest.dll.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/bin/Debug/MyCollections.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/bin/Debug/nunit.framework.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/bin/Debug/MyCollections.dll.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/bin/Debug/nunit.framework.xml
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/obj/Debug/ListTest.csprojResolveAssemblyReference.cache
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/obj/Debug/ListTest.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/ListTest/obj/Debug/ListTest.dll.mdb

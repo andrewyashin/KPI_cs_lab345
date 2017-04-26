@@ -1,0 +1,5 @@
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/MyCollections/bin/Debug/MyCollections.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/MyCollections/bin/Debug/MyCollections.dll.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/MyCollections/obj/Debug/MyCollections.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/MyCollections/obj/Debug/MyCollections.dll.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/Lab3/MyCollections/obj/Debug/MyCollections.csprojResolveAssemblyReference.cache
